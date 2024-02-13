@@ -1,16 +1,51 @@
-# health
+# Kawach_Women_Safety_App
+woman safety app has been developed with an SOS feature that is connected to the police server, family, and community. SOS button is provided for quick access to emergency services.
+ 
+## Features
+- User authentication for personalized accounts.
+- SOS button (which sends live location to guardiens and Calls Police)
+- quick call to emergency services
+- nearby emergency services location
+- Community for womens
+- Quick Tips for Safety
 
-A new Flutter project.
+## Installation
+1. Clone the repository: `git clone https://github.com/OMwanjari/Kawach.git`
+2. Navigate to the project directory: `cd Kawach`
+3. Install dependencies: `npm install`
 
-## Getting Started
+## Technologies Used
+- Flutter for the frontend.
+- Firebase for database storage.
 
-This project is a starting point for a Flutter application.
+## License
+This project is licensed under the [MIT License](LICENSE).
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
+[Link to Demo](https://youtu.be/09eB_t3wKLI?feature=shared)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<p align =center>
+[ 1]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/1.png"  width="300" height="600" />
+[ 2]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/2.png"  width="300" height="600" />
+</p>
+<p align =center>
+[ 3]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/3.png"  width="300" height="600" />
+[ 4]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/4.png"  width="300" height="600" />
+</p>
+<p align =center>
+[ 5]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/5.png"  width="300" height="600" />
+[ 6]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/6.png"  width="300" height="600" />
+</p>
+<p align =center>
+[ 7]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/7.png"  width="300" height="600" />
+[ 8]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/8.png"  width="300" height="600" />
+</p>
+<p align =center>
+[ 9]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/9.png"  width="300" height="600" />
+[ 10] <img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/10.png"  width="300" height="600" />
+</p>
+<p align =center>
+[ 11]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/11.png"  width="300" height="600" />
+[ 12] <img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/12.png"  width="300" height="600" />
+</p>
