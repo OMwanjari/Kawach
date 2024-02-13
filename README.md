@@ -31,15 +31,15 @@ This project is licensed under the [MIT License](LICENSE).
 </p>
 <p align =center>
 [ 1]<img src="https://github.com/OMwanjari/Kawach/blob/main/3.jpeg"  width="300" height="600" />
-[ 2]<img src="https://github.com/OMwanjari/Kawach/blob/main/4.jpeg"  width="300" height="600" />
+[ 2]<img src="https://github.com/OMwanjari/Kawach/blob/main/4.png"  width="300" height="600" />
 </p>
 <p align =center>
 [ 1]<img src="https://github.com/OMwanjari/Kawach/blob/main/5.jpeg"  width="300" height="600" />
-[ 2]<img src="https://github.com/OMwanjari/Kawach/blob/main/6.jpeg"  width="300" height="600" />
+[ 2]<img src="https://github.com/OMwanjari/Kawach/blob/main/6.png"  width="300" height="600" />
 </p>
 <p align =center>
-[ 1]<img src="https://github.com/OMwanjari/Kawach/blob/main/7.jpeg"  width="300" height="600" />
-[ 2]<img src="https://github.com/OMwanjari/Kawach/blob/main/8.jpeg"  width="300" height="600" />
+[ 1]<img src="https://github.com/OMwanjari/Kawach/blob/main/7.png"  width="300" height="600" />
+[ 2]<img src="https://github.com/OMwanjari/Kawach/blob/main/8.png"  width="300" height="600" />
 </p>
 <p align =center>
 [ 1]<img src="https://github.com/OMwanjari/Kawach/blob/main/9.jpeg"  width="300" height="600" />
