@@ -26,26 +26,26 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Screenshots
 <p align =center>
-[ 1]<img src="https://github.com/OMwanjari/Kawach/blob/main/1.png"  width="300" height="600" />
-[ 2]<img src="https://github.com/OMwanjari/Kawach/blob/main/2.png"  width="300" height="600" />
+[ 1]<img src="https://github.com/OMwanjari/Kawach/blob/main/1.jpeg"  width="300" height="600" />
+[ 2]<img src="https://github.com/OMwanjari/Kawach/blob/main/2.jpeg"  width="300" height="600" />
 </p>
 <p align =center>
-[ 3]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/3.png"  width="300" height="600" />
-[ 4]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/4.png"  width="300" height="600" />
+[ 1]<img src="https://github.com/OMwanjari/Kawach/blob/main/3.jpeg"  width="300" height="600" />
+[ 2]<img src="https://github.com/OMwanjari/Kawach/blob/main/4.jpeg"  width="300" height="600" />
 </p>
 <p align =center>
-[ 5]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/5.png"  width="300" height="600" />
-[ 6]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/6.png"  width="300" height="600" />
+[ 1]<img src="https://github.com/OMwanjari/Kawach/blob/main/5.jpeg"  width="300" height="600" />
+[ 2]<img src="https://github.com/OMwanjari/Kawach/blob/main/6.jpeg"  width="300" height="600" />
 </p>
 <p align =center>
-[ 7]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/7.png"  width="300" height="600" />
-[ 8]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/8.png"  width="300" height="600" />
+[ 1]<img src="https://github.com/OMwanjari/Kawach/blob/main/7.jpeg"  width="300" height="600" />
+[ 2]<img src="https://github.com/OMwanjari/Kawach/blob/main/8.jpeg"  width="300" height="600" />
 </p>
 <p align =center>
-[ 9]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/9.png"  width="300" height="600" />
-[ 10] <img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/10.png"  width="300" height="600" />
+[ 1]<img src="https://github.com/OMwanjari/Kawach/blob/main/9.jpeg"  width="300" height="600" />
+[ 2]<img src="https://github.com/OMwanjari/Kawach/blob/main/10.jpeg"  width="300" height="600" />
 </p>
 <p align =center>
-[ 11]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/11.png"  width="300" height="600" />
-[ 12] <img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/12.png"  width="300" height="600" />
+[ 1]<img src="https://github.com/OMwanjari/Kawach/blob/main/11.jpeg"  width="300" height="600" />
+[ 2]<img src="https://github.com/OMwanjari/Kawach/blob/main/12.jpeg"  width="300" height="600" />
 </p>
