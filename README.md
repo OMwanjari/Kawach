@@ -46,6 +46,6 @@ This project is licensed under the [MIT License](LICENSE).
 [ 2]<img src="https://github.com/OMwanjari/Kawach/blob/main/10.jpeg"  width="300" height="600" />
 </p>
 <p align =center>
-[ 1]<img src="https://github.com/OMwanjari/Kawach/blob/main/11.jpeg"  width="300" height="600" />
+[ 1]<img src="https://github.com/OMwanjari/Kawach/blob/main/11.png"  width="300" height="600" />
 [ 2]<img src="https://github.com/OMwanjari/Kawach/blob/main/12.jpeg"  width="300" height="600" />
 </p>
