@@ -26,8 +26,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Screenshots
 <p align =center>
-[ 1]<img src="https://github.com/OMwanjari/Kawach/blob/main/24.jpeg"  width="300" height="600" />
-[ 2]<img src="https://github.com/OMwanjari/Kawach/blob/main/25.jpeg"  width="300" height="600" />
+[ 1]<img src="https://github.com/OMwanjari/Kawach/blob/main/24.jpg"  width="300" height="600" />
+[ 2]<img src="https://github.com/OMwanjari/Kawach/blob/main/25.jpg"  width="300" height="600" />
 </p>
 <p align =center>
 [ 1]<img src="https://github.com/OMwanjari/Kawach/blob/main/3.jpeg"  width="300" height="600" />
