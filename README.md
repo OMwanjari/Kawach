@@ -22,7 +22,7 @@ woman safety app has been developed with an SOS feature that is connected to the
 This project is licensed under the [MIT License](LICENSE).
 
 ## Demo
-[Link to Demo](https://youtu.be/09eB_t3wKLI?feature=shared)
+[Link to Demo](https://www.youtube.com/watch?v=SCOaYoRPoNs)
 
 ## Screenshots
 <p align =center>
